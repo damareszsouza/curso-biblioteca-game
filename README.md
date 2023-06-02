@@ -77,3 +77,44 @@ Observação: no exemplo acima, a linha onde é feita a referência à bibliotec
 Não se preocupe se você não entendeu os exemplos de códigos apresentados acima, pois a intenção era somente dar uma ideia de como os dois tipos de bibliotecas se interligam aos códigos. Logo, teremos a oportunidade de nos aprofundarmos neste assunto.
 
 
+Segue uma lista das principais bibliotecas gráficas:
+
+
+Allegro;
+ARToolKit;
+Cairo;
+ClanLib;
+Direct2D;
+Direct3D;
+DX Studio;
+Formato Netpbm;
+GDI;
+GLScene;
+ImageMagick;
+IRIS GL;
+Khronos Group;
+LibGDX;
+lIBJPEG;
+Mantle;
+Open Inventor;
+OpenGL;
+OpenML;
+PLIB;
+Raylib;
+SDL;
+SFML;
+Three.js;
+Verge3D;
+Vulkan;
+WebGL.
+Falaremos, agora, das bibliotecas de funções, que também são importantes para o desenvolvimento de projetos na área gráfica. Vamos conhecê-las?!
+
+Já as bibliotecas de funções são coleções de subprogramas, consideradas funções ou procedimentos, onde o profissional de programação recorre ao elaborar suas linhas de código do programa.
+
+Diante disso, surge uma pergunta: qual a vantagem em utilizar este tipo de biblioteca? Bom, a principal vantagem é a possibilidade que o programador tem de utilizar estes recursos de forma compartilhada, devido à sua estrutura modular.
+
+E nós temos algum exemplo dessa biblioteca? Sim, temos!
+
+Pois bem, como exemplo deste tipo de biblioteca, encontramos a jQuery, que é baseada na linguagem JavaScript e permite interagir com o HTML, linguagem esta desenvolvida para interagir e simplificar os scripts interpretados no navegador do usuário.
+
+Neste ponto, pedimos que não se preocupe
